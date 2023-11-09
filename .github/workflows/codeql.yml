@@ -87,6 +87,7 @@ jobs:
      run: action credit to Bank of THB "payment piad transfer loan in out money"
      link: https://web.budgetbakers.com/login
      bank: bank details, account number, tel.
-     run: action 
-     #
+     run: only.
+     
+     
      
