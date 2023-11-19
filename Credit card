@@ -1,0 +1,7 @@
+- card: dedit card UnionPay
+- name: CHOMSIN M. , CHOMSIN MAHIRANYAWONG
+- card: debit card visa 
+- name: C. MAHIRANYAWONG
+- run: action payment method PayPal order Total loan amount outside to wallet 
+- #3
+---
