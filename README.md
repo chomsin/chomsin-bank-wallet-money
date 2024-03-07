@@ -1,17 +1,9 @@
 # GitHub-Web-IDE
 ⚡ Open GitHub repositories in online web IDE
-- wallet butge 
-
-- https://web.budgetbakers.com/login# Dr.Chomsin         Mahiranyawong.
-# 1-4099-00368-72-4 
-# K Plus:1671789551
-# SCB:7492656215
-# KTB:4063009432
-# Credit/debit or Debts:4340765002059763,4732560013280516
-# or 4788671302639420
-# VAT/GAS: 6GF22300DP1826925
-# TAL. +66637396545
-# "run" action USD,THB
-
-🏧🏦💯
+💵 
+# GitHub Codespaces
+# -[@CHOMSIN JiwJiw73 Dr.CHOMSIN MAHIRANYAWONG]{chomsinmahiranyawong@gmail.com}{chomsin422@gmail.com}{augaustmahiranyawong@gmail.com}{J.P.A.O@outlook.com}{J.P.A.O.Femily@outlook.com}
+# {Wallet Story, My Money, TrackWallet, Money Control,MAKE by KBANK, Money Maneger}=(SCB)(KTB)(KBANK)(BBL)
+[+66637396545](1409900368724)(6G22300DP1826925)(2843-7770-1144)
+# system my unlocked for purchase 
 
