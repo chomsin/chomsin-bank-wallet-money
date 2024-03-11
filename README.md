@@ -9,6 +9,6 @@
 - KTB:4063009432
 - VAT/GAS: 6GF22300DP1826925
 - TAL. 0637396545
-- Initial cover Digital THB
+- THB
   @chomsin
 
