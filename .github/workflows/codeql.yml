@@ -13,10 +13,10 @@ name: "CodeQL"
 
 on:
   push:
-    branches: [ "Manager" ]
+    branches: [ "JiwJiw73" ]
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ "Manager" ]
+    branches: [ "JiwJiw73" ]
   schedule:
     - cron: '17 13 * * 4'
 
@@ -36,7 +36,7 @@ jobs:
       security-events: write
 
     strategy:
-      fail-fast: false
+      fail-fast: true
       matrix:
         language: [ 'javascript' ]
         # CodeQL supports [ 'cpp', 'csharp', 'go', 'java', 'javascript', 'python', 'ruby', 'swift' ]
@@ -78,7 +78,7 @@ jobs:
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
-      with:
+      with: blue
         category: "/language:${{matrix.language}}"
     # [![CodeQL](https://github.com/chomsin/GitHub-Web-IDE/actions/workflows/codeql.yml/badge.svg?branch=Manager)](https://github.com/chomsin/GitHub-Web-IDE/actions/workflows/codeql.yml)
      # copilot 
@@ -86,6 +86,6 @@ jobs:
      run:https://web.budgetbakers.com/login {account number email address}
      
      name: account and email or outlook mobile wallet money.
-     run: action credit to Bank of THB "payment piad transfer loan in out money"
+     run: action debit credit to Bank of THB "payment piad transfer loan in out money"
      link: https://web.budgetbakers.com/login
      bank: bank details, account number, tel.
