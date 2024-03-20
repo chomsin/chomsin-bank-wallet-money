@@ -9,7 +9,6 @@
 - KTB : 406-3-00943-2 connection wallet.wap.app
 - paypal : @CMAHIRANYAWONG
 - VAT/GAS : 6GF22300DP1826925
-- TAL. +66637396545
-- Currency THB, USD, GBP
+- TAL. +66637396545 USD, GBP
   @CHOMSIN
 
